@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/whriddick/helloruby)
+
 # helloruby
 
 To create a Gitpod workspace based on this repository, paste a URL similar to the below into your address bar.
